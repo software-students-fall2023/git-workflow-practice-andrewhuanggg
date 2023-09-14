@@ -10,13 +10,5 @@ Recently, a group of influential tech CEOs and executives from major companies s
 ## Comments: 
 
 **Aditya Pandhare:** 
-- I would say something I found interesting about this article was 
-Google's response to how AI development and how it can be integrated to US 
-Congress. Some of the one's I liked include generating policies which 
-drive for innovation which I think is great especially for businesses and 
-individuals, as well as pushing AI to solving global issues, some of the 
-ones mentioned were cancer. I hope they plan to use AI to solve bigger 
-issues as well using them to attain the UN's 20 sustainable goals. One 
-that I found interesting however, was "driving greater use of AI in 
-government". I'm not sure what they mean by that exactly, what motive does 
-it have?
+- I would say something I found interesting about this article was Google's response to how AI development and how it can be integrated to US Congress. Some of the one's I liked include generating policies which 
+drive for innovation which I think is great especially for businesses and individuals, as well as pushing AI to solving global issues, some of the ones mentioned were cancer. I hope they plan to use AI to solve bigger issues as well using them to attain the UN's 20 sustainable goals. One that I found interesting however, was "driving greater use of AI in government". I'm not sure what they mean by that exactly, what motive does it have?
